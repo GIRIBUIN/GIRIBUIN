@@ -1,7 +1,4 @@
-# 안녕하세요, GIRIBUIN입니다 👋
-
-[![Korean](https://img.shields.io/badge/🇰🇷_Korean-555555?style=for-the-badge)](./README.ko.md)
-[![English](https://img.shields.io/badge/🇺🇸_English-555555?style=for-the-badge)](./README.md)
+[![Korean](https://img.shields.io/badge/🇰🇷_Korean-555555?style=for-the-badge)](./README.ko.md) [![English](https://img.shields.io/badge/🇺🇸_English-555555?style=for-the-badge)](./README.md)
 
 프로젝트를 만들고, 직접 부딪히며 배우고, 시스템이 어떻게 동작하는지 탐구하는 것을 좋아하는 CS 학생입니다.
 

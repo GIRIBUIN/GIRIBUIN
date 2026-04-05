@@ -16,6 +16,6 @@ A CS student who enjoys building projects, learning by doing, and exploring how 
 - Improving project structure, documentation, and problem-solving skills
 
 ## 🔗 Links
-- Velog: https://velog.io/@giribuin
-- GitHub: https://github.com/GIRIBUIN
-- LinkedIn: https://www.linkedin.com/in/your-linkedin-id
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@giribuin)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/giribuin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-id)

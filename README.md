@@ -1,5 +1,3 @@
-# Hi, I'm GIRIBUIN 👋
-
 [![Korean](https://img.shields.io/badge/🇰🇷_Korean-555555?style=for-the-badge)](./README.ko.md) [![English](https://img.shields.io/badge/🇺🇸_English-555555?style=for-the-badge)](./README.md)
 
 A CS student who enjoys building projects, learning by doing, and exploring how systems work.
